@@ -23,4 +23,8 @@
   <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=Apollo-graphQL&logoColor=white"/></a>&nbsp
 </p
+//https://simpleicons.org/
