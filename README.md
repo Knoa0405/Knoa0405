@@ -26,6 +26,5 @@
   <br>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=Apollo-graphQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=Apollo-graphQL&logoColor=white"/></a>&nbsp
 </p
 //https://simpleicons.org/
