@@ -29,5 +29,6 @@
   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=Apollo-graphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/></a>&nbsp
 </p
 //https://simpleicons.org/
