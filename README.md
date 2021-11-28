@@ -1,5 +1,5 @@
+[![Noah's github stats](https://github-readme-stats.vercel.app/api?username=Knoa0405&hide=stars&show_icons=true&theme=tokyonight&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knoa0405&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Knoa0405&show_icons=true&theme=tokyonight&count_private=true&repo=github-readme-stats"/>
 </br>
 
 <h3 align="center">🛠 Tech Stack! 🛠</h3>
