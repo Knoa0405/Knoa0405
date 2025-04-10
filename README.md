@@ -28,5 +28,18 @@
   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=Apollo-graphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/></a>&nbsp
-</p
-//https://simpleicons.org/
+</p>
+
+<h3 align="center">🌟 Open Source Contributions 🌟</h3>
+
+<p align="center">
+  <a href="https://github.com/vercel/next.js/pull/76151">
+    <img src="https://img.shields.io/badge/Next.js_15.2-Contributor-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ✨ Next.js 15.2 릴리즈에 기여 - Cursor 에디터 지원 기능 추가
+  <br>
+  🔍 launch-editor.ts에서 누락된 'Cursor' 케이스 복원을 통한 에러 라인 넘버 기능 개선
+</p>
